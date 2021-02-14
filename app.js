@@ -127,7 +127,7 @@ searchBtn.addEventListener('click', function () {
     const search = document.getElementById('search');
     let searchValue = ""
     if (search.value == "") {
-        searchValue = alert(`Empty Field Does not Exist!, Please Give Valid name for Search.`);
+        searchValue = alert(`Empty Field are not Exist!, Please Give Valid name for Search.`);
         
     }
     else  {
